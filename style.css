@@ -1,0 +1,57 @@
+.col-md-6 {
+
+	text-align: center;
+}
+
+.jumbotron p {
+
+	font-size: 14px;
+}
+
+h1 {
+
+	text-align: center;
+	margin-top: 100px;
+}
+
+.nav {
+
+	margin-top: 30px;
+}
+
+.logo {
+
+	margin-top: 30px;
+}
+
+body {
+
+	font-family: 'Roboto', sans-serif;
+}
+
+#bootcamp {
+
+text-align: center;
+
+}
+
+#bg2 {
+
+	position: relative;
+	background-image: url(images/bg.jpeg);
+	background-position: center;
+	height: 420px;
+	width: 100%;
+
+}
+
+.centro {
+
+	color: white;
+}
+
+#footer {
+
+	background-color: #232323;
+	color: white;
+}
